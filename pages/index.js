@@ -18,6 +18,10 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
+        <p>
+          Go to <a href="/posts">posts list</a>
+        </p>
+
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
